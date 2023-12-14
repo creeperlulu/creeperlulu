@@ -2,9 +2,9 @@
 
 *Happiness isn't happiness without a violin-playing goat.*
 
-### About me
+### 🐺 About me
 I'm **Creeperlulu** (but you can call me Epson - it's my fursona's name).  
-**17 years old**, french **furry** (protogen) and **soon to be student at epitech**.  
+**17 years old**, french **furry** (protogen) and **soon to be student at** @Epitech.  
 I enjoy **coding** from time to time (although I don't really have time at the moment).  
 I like **computers** and IT in general.  
 I'm also part of the **Scpija** team.
@@ -13,12 +13,18 @@ I use **Windows** but I'm starting to get on Arch Linux.
 I already coded a bit in Java, C, C#, Python, and HTML/CSS.  
 For now I'm a **Visual Studio Code** user.
 
-### My current projects
+### 💻 My current projects
 - 📱 Oasis OS, a mobile operating system based off the Android Open Source Project
 - 🎮 A demake of a PC rythm game for the Nintendo 3DS
 - 🌐 My personal website
 
-### 💡 Did you know?
+### 🔧 Languages, tools, and software I already used (at least once)
+
+![Languages](https://skillicons.dev/icons?i=java,c,cs,py,html,css,md)  
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,raspberrypi)  
+![Software](https://skillicons.dev/icons?i=vscode,eclipse,discord,figma,ae,ai,ps,pr,unity)
+
+### 💡 Random fun fact
 The Nintendo Wii system settings and setup are just HTML pages.
 
 <!--
