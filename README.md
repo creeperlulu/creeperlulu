@@ -6,7 +6,7 @@
 
 ### 🐺 About me
 I'm **Creeperlulu** (but you can call me Epson - it's my fursona's name).  
-**17 years old**, french **furry** (protogen) and **soon to be student at** @Epitech.  
+**17 years old**, french **furry** (protogen) and **soon to be student at Epitech**  
 I enjoy **coding** from time to time (although I don't really have time at the moment).  
 I like **computers** and IT in general.  
 I'm also part of the **Scpija** team.
