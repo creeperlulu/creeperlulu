@@ -2,7 +2,7 @@
 
 *Happiness isn't happiness without a violin-playing goat.*
 
-<img src="https://media.discordapp.net/attachments/1006858911514624020/1011411641813975090/Sans_titre_298_20220820133521.png" align="right" width="450">
+<img src="https://media.discordapp.net/attachments/1006858911514624020/1011411641813975090/Sans_titre_298_20220820133521.png" align="right" width="50%">
 
 ### 🐺 About me
 I'm **Creeperlulu** (but you can call me Epson - it's my fursona's name).  
